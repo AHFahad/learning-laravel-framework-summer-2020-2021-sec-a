@@ -23,8 +23,8 @@
 			<td>{{$user['password']}}</td>
         </tr>
         <tr>
-			<td>Email</td>
-            <td>{{$user['email']}}</td>
+			<td>Cgpa</td>
+            <td>{{$user['cgpa']}}</td>
         </tr>
         <tr>
             <td>Type</td>
